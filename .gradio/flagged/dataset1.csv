@@ -1,0 +1,21 @@
+Mensaje,Usuario (opcional),Respuesta de la IA,timestamp
+"sí, quiero saber qué cursos ofreces",,"Ofrezco varios cursos diseñados para diferentes necesidades y niveles de experiencia. Aquí te detallo algunos de ellos:
+
+1. **Curso Profesional de SQL (40 horas)**
+   - **Propósito:** Capacitar a equipos para construir soluciones analíticas robustas con SQL, desde queries complejas hasta optimización y diseño de pipelines para BI.
+   - **Modalidades:** Cohorte abierta (online en vivo), corporativo in-house (con casos y datasets propios), e híbrido (material grabado + sesiones en vivo y tutoría).
+   - **Contenido:** Incluye temas como fundamentos avanzados, joins complejos, subconsultas, funciones de ventana, optimización, y más.
+
+2. **Curso Profesional de Python para Data Science (60 horas)**
+   - **Propósito:** Preparar profesionales para desarrollar pipelines reproducibles, construir y evaluar modelos, y desplegarlos en entornos productivos.
+   - **Modalidades:** Intensivo (8 semanas) o part-time (12 semanas), con opción de bootcamp que incluye mentoría 1:1.
+   - **Contenido:** Cubre desde Python esencial, Pandas avanzado, limpieza de datos, modelado supervisado, hasta despliegue con FastAPI/Docker.
+
+3. **Bootcamp Intensivo**
+   - **Incluye:** 2 mentorías 1:1 y un enfoque intensivo en el aprendizaje práctico.
+
+Además, ofrezco paquetes combinados y descuentos, como un bundle de PoC + Curso (SQL o Python) con un 10% de descuento, y formación corporativa anual con tarifas negociadas.
+
+Si estás interesado en alguno de estos cursos o necesitas más información, no dudes en preguntar. ¡Estoy aquí para ayudarte!
+
+(Thread ID: c606943a-8011-4389-a2f6-dae4e45039b7)",2025-09-19 12:42:10.269209
